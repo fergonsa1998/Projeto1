@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores\bin\Debug\Vetores.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores\bin\Debug\Vetores.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores\bin\Debug\Vetores.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores\obj\Debug\Vetores.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores\obj\Debug\Vetores.pdb

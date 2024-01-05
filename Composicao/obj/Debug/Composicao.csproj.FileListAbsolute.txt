@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Composicao\bin\Debug\Composicao.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Composicao\bin\Debug\Composicao.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Composicao\bin\Debug\Composicao.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Composicao\obj\Debug\Composicao.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Composicao\obj\Debug\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Composicao\obj\Debug\Composicao.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Composicao\obj\Debug\Composicao.pdb

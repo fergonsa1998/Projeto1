@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\While\bin\Debug\While.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\While\bin\Debug\While.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\While\bin\Debug\While.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\While\obj\Debug\While.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\While\obj\Debug\While.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\While\obj\Debug\While.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\While\obj\Debug\While.pdb

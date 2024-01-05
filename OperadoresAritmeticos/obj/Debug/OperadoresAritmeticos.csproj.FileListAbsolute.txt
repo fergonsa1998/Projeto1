@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.pdb

@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ClassesEAtributosExe3\bin\Debug\ClassesEAtributosExe3.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ClassesEAtributosExe3\bin\Debug\ClassesEAtributosExe3.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ClassesEAtributosExe3\bin\Debug\ClassesEAtributosExe3.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ClassesEAtributosExe3\obj\Debug\ClassesEAtributosExe3.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ClassesEAtributosExe3\obj\Debug\ClassesEAtributosExe3.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ClassesEAtributosExe3\obj\Debug\ClassesEAtributosExe3.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ClassesEAtributosExe3\obj\Debug\ClassesEAtributosExe3.pdb

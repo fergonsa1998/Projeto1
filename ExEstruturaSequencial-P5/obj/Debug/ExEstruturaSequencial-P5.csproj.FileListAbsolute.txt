@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P5\bin\Debug\ExEstruturaSequencial-P5.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P5\bin\Debug\ExEstruturaSequencial-P5.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P5\bin\Debug\ExEstruturaSequencial-P5.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P5\obj\Debug\ExEstruturaSequencial-P5.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P5\obj\Debug\ExEstruturaSequencial-P5.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P5\obj\Debug\ExEstruturaSequencial-P5.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P5\obj\Debug\ExEstruturaSequencial-P5.pdb

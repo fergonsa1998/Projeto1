@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\TimeSpan3\bin\Debug\TimeSpan3.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\TimeSpan3\bin\Debug\TimeSpan3.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\TimeSpan3\bin\Debug\TimeSpan3.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\TimeSpan3\obj\Debug\TimeSpan3.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\TimeSpan3\obj\Debug\TimeSpan3.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\TimeSpan3\obj\Debug\TimeSpan3.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\TimeSpan3\obj\Debug\TimeSpan3.pdb

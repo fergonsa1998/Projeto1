@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTimeKind-ISO8601\bin\Debug\DateTimeKind-ISO8601.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTimeKind-ISO8601\bin\Debug\DateTimeKind-ISO8601.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTimeKind-ISO8601\bin\Debug\DateTimeKind-ISO8601.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTimeKind-ISO8601\obj\Debug\DateTimeKind-ISO8601.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTimeKind-ISO8601\obj\Debug\DateTimeKind-ISO8601.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTimeKind-ISO8601\obj\Debug\DateTimeKind-ISO8601.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTimeKind-ISO8601\obj\Debug\DateTimeKind-ISO8601.pdb

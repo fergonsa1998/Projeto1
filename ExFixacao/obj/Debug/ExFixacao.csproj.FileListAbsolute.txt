@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFixacao\bin\Debug\ExFixacao.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFixacao\bin\Debug\ExFixacao.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFixacao\bin\Debug\ExFixacao.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFixacao\obj\Debug\ExFixacao.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFixacao\obj\Debug\ExFixacao.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFixacao\obj\Debug\ExFixacao.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFixacao\obj\Debug\ExFixacao.pdb

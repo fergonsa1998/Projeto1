@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresComparativos\bin\Debug\OperadoresComparativos.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresComparativos\bin\Debug\OperadoresComparativos.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresComparativos\bin\Debug\OperadoresComparativos.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresComparativos\obj\Debug\OperadoresComparativos.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresComparativos\obj\Debug\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresComparativos\obj\Debug\OperadoresComparativos.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\OperadoresComparativos\obj\Debug\OperadoresComparativos.pdb

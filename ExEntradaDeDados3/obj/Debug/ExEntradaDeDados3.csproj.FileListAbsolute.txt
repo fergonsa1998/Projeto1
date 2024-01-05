@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEntradaDeDados3\bin\Debug\ExEntradaDeDados3.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEntradaDeDados3\bin\Debug\ExEntradaDeDados3.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEntradaDeDados3\bin\Debug\ExEntradaDeDados3.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEntradaDeDados3\obj\Debug\ExEntradaDeDados3.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEntradaDeDados3\obj\Debug\ExEntradaDeDados3.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEntradaDeDados3\obj\Debug\ExEntradaDeDados3.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEntradaDeDados3\obj\Debug\ExEntradaDeDados3.pdb

@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ListaEx\bin\Debug\ListaEx.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ListaEx\bin\Debug\ListaEx.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ListaEx\bin\Debug\ListaEx.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ListaEx\obj\Debug\ListaEx.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ListaEx\obj\Debug\ListaEx.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ListaEx\obj\Debug\ListaEx.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ListaEx\obj\Debug\ListaEx.pdb

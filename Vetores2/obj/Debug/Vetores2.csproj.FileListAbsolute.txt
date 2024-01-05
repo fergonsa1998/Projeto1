@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores2\bin\Debug\Vetores2.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores2\bin\Debug\Vetores2.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores2\bin\Debug\Vetores2.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores2\obj\Debug\Vetores2.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores2\obj\Debug\Vetores2.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores2\obj\Debug\Vetores2.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Vetores2\obj\Debug\Vetores2.pdb

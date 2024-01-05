@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModifRef\bin\Debug\ModifRef.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModifRef\bin\Debug\ModifRef.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModifRef\bin\Debug\ModifRef.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModifRef\obj\Debug\ModificRef.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModifRef\obj\Debug\ModificRef.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModifRef\obj\Debug\ModifRef.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModifRef\obj\Debug\ModifRef.pdb

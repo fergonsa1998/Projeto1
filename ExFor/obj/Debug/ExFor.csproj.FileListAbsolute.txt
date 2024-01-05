@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFor\bin\Debug\ExFor.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFor\bin\Debug\ExFor.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFor\bin\Debug\ExFor.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFor\obj\Debug\ExFor.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFor\obj\Debug\ExFor.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFor\obj\Debug\ExFor.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExFor\obj\Debug\ExFor.pdb

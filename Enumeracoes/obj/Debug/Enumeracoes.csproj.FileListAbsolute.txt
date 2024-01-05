@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Enumeracoes\bin\Debug\Enumeracoes.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Enumeracoes\bin\Debug\Enumeracoes.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Enumeracoes\bin\Debug\Enumeracoes.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Enumeracoes\obj\Debug\Enumeracoes.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Enumeracoes\obj\Debug\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Enumeracoes\obj\Debug\Enumeracoes.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Enumeracoes\obj\Debug\Enumeracoes.pdb

@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EscopoEInicializacao\bin\Debug\EscopoEInicializacao.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EscopoEInicializacao\bin\Debug\EscopoEInicializacao.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EscopoEInicializacao\bin\Debug\EscopoEInicializacao.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EscopoEInicializacao\obj\Debug\EscopoEInicializacao.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EscopoEInicializacao\obj\Debug\EscopoEInicializacao.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EscopoEInicializacao\obj\Debug\EscopoEInicializacao.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EscopoEInicializacao\obj\Debug\EscopoEInicializacao.pdb

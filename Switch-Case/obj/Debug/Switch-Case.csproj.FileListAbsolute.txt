@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Switch-Case\obj\Debug\Switch-Case.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Switch-Case\obj\Debug\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Switch-Case\bin\Debug\Switch-Case.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Switch-Case\bin\Debug\Switch-Case.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Switch-Case\bin\Debug\Switch-Case.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Switch-Case\obj\Debug\Switch-Case.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Switch-Case\obj\Debug\Switch-Case.pdb

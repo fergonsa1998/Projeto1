@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MatrizesEx\bin\Debug\MatrizesEx.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MatrizesEx\bin\Debug\MatrizesEx.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MatrizesEx\bin\Debug\MatrizesEx.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MatrizesEx\obj\Debug\MatrizesEx.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MatrizesEx\obj\Debug\MatrizesEx.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MatrizesEx\obj\Debug\MatrizesEx.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MatrizesEx\obj\Debug\MatrizesEx.pdb

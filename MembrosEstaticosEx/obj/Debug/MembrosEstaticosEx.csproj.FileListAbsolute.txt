@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MembrosEstaticosEx\bin\Debug\MembrosEstaticosEx.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MembrosEstaticosEx\bin\Debug\MembrosEstaticosEx.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MembrosEstaticosEx\bin\Debug\MembrosEstaticosEx.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MembrosEstaticosEx\obj\Debug\MembrosEstaticosEx.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MembrosEstaticosEx\obj\Debug\MembrosEstaticosEx.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MembrosEstaticosEx\obj\Debug\MembrosEstaticosEx.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\MembrosEstaticosEx\obj\Debug\MembrosEstaticosEx.pdb

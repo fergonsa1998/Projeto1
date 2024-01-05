@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\FuncoesParaString\bin\Debug\FuncoesParaString.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\FuncoesParaString\bin\Debug\FuncoesParaString.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\FuncoesParaString\bin\Debug\FuncoesParaString.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\FuncoesParaString\obj\Debug\FuncoesParaString.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\FuncoesParaString\obj\Debug\FuncoesParaString.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\FuncoesParaString\obj\Debug\FuncoesParaString.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\FuncoesParaString\obj\Debug\FuncoesParaString.pdb

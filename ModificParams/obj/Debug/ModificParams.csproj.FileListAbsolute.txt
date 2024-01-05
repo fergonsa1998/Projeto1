@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModificParams\bin\Debug\ModificParams.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModificParams\bin\Debug\ModificParams.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModificParams\bin\Debug\ModificParams.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModificParams\obj\Debug\ModificParams.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModificParams\obj\Debug\ModificParams.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModificParams\obj\Debug\ModificParams.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ModificParams\obj\Debug\ModificParams.pdb

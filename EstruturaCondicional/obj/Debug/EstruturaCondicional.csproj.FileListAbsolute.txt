@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EstruturaCondicional\bin\Debug\EstruturaCondicional.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EstruturaCondicional\bin\Debug\EstruturaCondicional.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EstruturaCondicional\bin\Debug\EstruturaCondicional.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EstruturaCondicional\obj\Debug\EstruturaCondicional.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EstruturaCondicional\obj\Debug\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EstruturaCondicional\obj\Debug\EstruturaCondicional.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\EstruturaCondicional\obj\Debug\EstruturaCondicional.pdb

@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\For\bin\Debug\For.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\For\bin\Debug\For.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\For\bin\Debug\For.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\For\obj\Debug\For.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\For\obj\Debug\For.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\For\obj\Debug\For.pdb

@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExWhile\bin\Debug\ExWhile.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExWhile\bin\Debug\ExWhile.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExWhile\bin\Debug\ExWhile.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExWhile\obj\Debug\ExWhile.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExWhile\obj\Debug\ExWhile.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExWhile\obj\Debug\ExWhile.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExWhile\obj\Debug\ExWhile.pdb

@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTime2\bin\Debug\DateTime2.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTime2\bin\Debug\DateTime2.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTime2\bin\Debug\DateTime2.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTime2\obj\Debug\DateTime2.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTime2\obj\Debug\DateTime2.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTime2\obj\Debug\DateTime2.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\DateTime2\obj\Debug\DateTime2.pdb

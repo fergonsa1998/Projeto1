@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Sintaxe\bin\Debug\Sintaxe.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Sintaxe\bin\Debug\Sintaxe.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Sintaxe\bin\Debug\Sintaxe.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Sintaxe\obj\Debug\Sintaxe.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Sintaxe\obj\Debug\Sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Sintaxe\obj\Debug\Sintaxe.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Sintaxe\obj\Debug\Sintaxe.pdb

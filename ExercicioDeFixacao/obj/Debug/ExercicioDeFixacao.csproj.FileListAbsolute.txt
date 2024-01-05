@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExercicioDeFixacao\bin\Debug\ExercicioDeFixacao.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExercicioDeFixacao\bin\Debug\ExercicioDeFixacao.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExercicioDeFixacao\bin\Debug\ExercicioDeFixacao.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExercicioDeFixacao\obj\Debug\ExercicioDeFixacao.pdb

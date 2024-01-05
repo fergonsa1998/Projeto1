@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExComparativo4\bin\Debug\ExComparativo4.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExComparativo4\bin\Debug\ExComparativo4.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExComparativo4\bin\Debug\ExComparativo4.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExComparativo4\obj\Debug\ExComparativo4.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExComparativo4\obj\Debug\ExComparativo4.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExComparativo4\obj\Debug\ExComparativo4.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExComparativo4\obj\Debug\ExComparativo4.pdb

@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\LacoForeach\bin\Debug\LacoForeach.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\LacoForeach\bin\Debug\LacoForeach.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\LacoForeach\bin\Debug\LacoForeach.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\LacoForeach\obj\Debug\LacoForeach.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\LacoForeach\obj\Debug\LacoForeach.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\LacoForeach\obj\Debug\LacoForeach.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\LacoForeach\obj\Debug\LacoForeach.pdb

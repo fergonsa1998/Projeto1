@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\HerancaEPolimorfismo\bin\Debug\HerancaEPolimorfismo.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\HerancaEPolimorfismo\bin\Debug\HerancaEPolimorfismo.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\HerancaEPolimorfismo\bin\Debug\HerancaEPolimorfismo.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\HerancaEPolimorfismo\obj\Debug\HerancaEPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\HerancaEPolimorfismo\obj\Debug\HerancaEPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\HerancaEPolimorfismo\obj\Debug\HerancaEPolimorfismo.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\HerancaEPolimorfismo\obj\Debug\HerancaEPolimorfismo.pdb

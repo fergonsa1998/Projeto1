@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Course\bin\Debug\Course.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Course\bin\Debug\Course.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Course\bin\Debug\Course.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Course\obj\Debug\Course.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Course\obj\Debug\Course.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\Course\obj\Debug\Course.pdb

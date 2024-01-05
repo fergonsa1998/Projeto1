@@ -1,0 +1,7 @@
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P6\obj\Debug\ExEstruturaSequencial-P6.csproj.AssemblyReference.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P6\obj\Debug\ExEstruturaSequencial-P6.csproj.CoreCompileInputs.cache
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P6\bin\Debug\ExEstruturaSequencial-P6.exe.config
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P6\bin\Debug\ExEstruturaSequencial-P6.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P6\bin\Debug\ExEstruturaSequencial-P6.pdb
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P6\obj\Debug\ExEstruturaSequencial-P6.exe
+C:\Users\FRG\Desktop\Projeto\PrimeiroProjeto\ExEstruturaSequencial-P6\obj\Debug\ExEstruturaSequencial-P6.pdb
